@@ -1,6 +1,8 @@
-package ie.atu.sw;
+package ie.atu.sw.crypto.symmetric;
 
 import java.security.Key;
+
+import ie.atu.ie.crypto.AbstractCypher;
 
 /*
  * Blaise de Vigenere, a  French diplomat, is incorrectly accredited with inventing this encryption mechanism in the 1570s,

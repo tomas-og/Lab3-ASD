@@ -1,7 +1,9 @@
-package ie.atu.sw;
+package ie.atu.sw.crypto.asymmetric;
 
 import java.security.*;
 import javax.crypto.*;
+
+import ie.atu.ie.crypto.AbstractCypher;
 
 public class RSACypher extends AbstractCypher {
 	private KeyPair keyRing;

@@ -1,4 +1,4 @@
-package ie.atu.sw;
+package ie.atu.ie.crypto;
 
 public interface Cypherable {
 	public byte[] encrypt(byte[] plainText) throws Throwable;
