@@ -2,7 +2,7 @@ package ie.atu.sw.crypto.symmetric;
 
 import javax.crypto.*;
 
-import ie.atu.ie.crypto.AbstractCypher;
+import ie.atu.sw.crypto.AbstractCypher;
 
 public class AESCypher extends AbstractCypher{
 	public AESCypher() throws Throwable{

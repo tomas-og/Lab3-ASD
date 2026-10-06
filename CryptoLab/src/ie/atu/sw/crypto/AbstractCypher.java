@@ -1,4 +1,4 @@
-package ie.atu.ie.crypto;
+package ie.atu.sw.crypto;
 
 import java.security.*;
 

@@ -1,8 +1,8 @@
 package ie.atu.sw;
 
-import ie.atu.ie.crypto.Algorithm;
-import ie.atu.ie.crypto.CypherFactory;
-import ie.atu.ie.crypto.Cypherable;
+import ie.atu.sw.crypto.Algorithm;
+import ie.atu.sw.crypto.CypherFactory;
+import ie.atu.sw.crypto.Cypherable;
 
 public class Runner {
 	public static void main(String[] args) throws Throwable{

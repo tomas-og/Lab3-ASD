@@ -1,4 +1,4 @@
-package ie.atu.ie.crypto;
+package ie.atu.sw.crypto;
 
 import ie.atu.sw.crypto.asymmetric.RSACypher;
 import ie.atu.sw.crypto.symmetric.AESCypher;

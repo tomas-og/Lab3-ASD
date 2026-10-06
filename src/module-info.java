@@ -1,4 +1,0 @@
-
-open module atu.software {
-	
-}
